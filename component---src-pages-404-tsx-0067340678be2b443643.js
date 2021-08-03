@@ -1,2 +1,0 @@
-(self.webpackChunkrichen_portfolio=self.webpackChunkrichen_portfolio||[]).push([[218],{938:function(e,t,n){"use strict";n.r(t);var l=n(7294),o=n(9007),u=n(5167);t.default=()=>l.createElement(o.Z,null,l.createElement(u.Z,{title:"404: Not found"}),l.createElement("h1",null,"404: Not Found"),l.createElement("p",null,"You just hit a route that doesn't exist... the sadness."))}}]);
-//# sourceMappingURL=component---src-pages-404-tsx-0067340678be2b443643.js.map
